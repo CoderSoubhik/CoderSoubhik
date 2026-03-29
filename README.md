@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=28&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&height=70&lines=Hi+there!+I'm+Soubhik+Sarkar+%F0%9F%91%8B;Newbie+AI+%26+Python+Developer;Exploring+Computer+Vision;Building+cool+stuff+from+India!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=28&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&height=70&lines=Hi+there!+I'm+Soubhik+Sarkar+%F0%9F%91%8B;Newbie+AI+%26+Python+Developer;Exploring+Computer+Vision;Building+cool+stuffs..." alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -14,10 +14,9 @@
 
 ```text
 🔭 Currently learning  →  Deep Learning & Computer Vision
-⚙️  Working with       →  OpenCV · PyTorch · TensorFlow
-👯 Open to            →  Collaborations on AI/ML projects
-💬 Ask me about       →  Python · C/C++ · Computer Vision
-📍 Based in           →  India 🇮🇳
+⚙️ Working with        →  OpenCV · PyTorch · TensorFlow
+👯 Open to             →  Collaborations on AI/ML projects
+💬 Ask me about        →  Python · C/C++ · Computer Vision
 ```
 
 ---
