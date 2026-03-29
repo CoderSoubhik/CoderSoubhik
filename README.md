@@ -7,7 +7,7 @@
 <h3 align="center">A passionate software engineer from India 🇮🇳</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=CoderSoubhik&label=Profile%20views&color=0e75b6&style=flat" alt="codersoubhik" />
+  <img src="https://komarev.com/ghpvc/?username=CoderSoubhik&label=Profile%20views&color=0e75b6&style=flat" alt="CoderSoubhik" />
 </p>
 
 ---
@@ -30,13 +30,19 @@
 <h3 align="left">📊 GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CoderSoubhik&show_icons=true&theme=tokyonight&locale=en" alt="codersoubhik stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CoderSoubhik&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CoderSoubhik&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CoderSoubhik&theme=tokyonight" alt="codersoubhik streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CoderSoubhik&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CoderSoubhik&theme=tokyonight&utcOffset=5.5" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoderSoubhik&layout=compact&theme=tokyonight" alt="top languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CoderSoubhik&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=CoderSoubhik&theme=tokyonight" alt="CoderSoubhik streak" />
 </p>
