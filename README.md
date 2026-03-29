@@ -7,7 +7,7 @@
 <h3 align="center">A passionate software engineer from India 🇮🇳</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=codersoubhik&label=Profile%20views&color=0e75b6&style=flat" alt="codersoubhik" />
+  <img src="https://komarev.com/ghpvc/?username=CoderSoubhik&label=Profile%20views&color=0e75b6&style=flat" alt="codersoubhik" />
 </p>
 
 ---
@@ -30,13 +30,13 @@
 <h3 align="left">📊 GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codersoubhik&show_icons=true&theme=tokyonight&locale=en" alt="codersoubhik stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CoderSoubhik&show_icons=true&theme=tokyonight&locale=en" alt="codersoubhik stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codersoubhik&theme=tokyonight" alt="codersoubhik streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CoderSoubhik&theme=tokyonight" alt="codersoubhik streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codersoubhik&layout=compact&theme=tokyonight" alt="top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoderSoubhik&layout=compact&theme=tokyonight" alt="top languages" />
 </p>
