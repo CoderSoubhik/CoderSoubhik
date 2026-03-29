@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=I+am+Soubhik+Sarkar;Newbie+AI+Developer;Newbie+Python+Coder;Passionate+Software+Engineer" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">A passionate software engineer from India 🇮🇳</h3>
+<h3 align="center">A passionate software engineer from India</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=CoderSoubhik&label=Profile%20views&color=0e75b6&style=flat" alt="CoderSoubhik" />
